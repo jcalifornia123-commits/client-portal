@@ -15,6 +15,7 @@ coverage
 .env.test.local
 .env.production.local
 node_modules/
+/clinet-portal/
 supabase/.branches/
 supabase/.temp/
 
